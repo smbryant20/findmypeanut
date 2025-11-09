@@ -1,0 +1,5 @@
+{
+  "SUPABASE_URL": "https://xssdsaxzatkkwjvjmgct.supabase.co",
+  "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhzc2RzYXh6YXRra3dqdmptZ2N0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA2Mjc4NzQsImV4cCI6MjA3NjIwMzg3NH0.GLsKyA_VGA5OciPsWBqw2lMVdaywhPTLwbkul4i110c",
+  "SUPABASE_FUN_URL": "https://xssdsaxzatkkwjvjmgct.supabase.co/functions/v1"
+}
