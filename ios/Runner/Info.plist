@@ -5,7 +5,7 @@
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>We use your location to suggest the closest city and show a map pin.</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>This app lets you choose a profile photo.</string>
+    <string>This app lets you choose a profile photo and attach pet photos to reports.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
     <string>This app lets you attach pet photos to reports.</string>
 	<key>CFBundleDevelopmentRegion</key>

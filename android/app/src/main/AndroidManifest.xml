@@ -12,7 +12,7 @@
 
 
     <application
-        android:label="finder"
+        android:label="findmypeanut"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

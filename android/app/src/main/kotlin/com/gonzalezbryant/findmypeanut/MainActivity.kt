@@ -1,4 +1,4 @@
-package com.example.finder
+package com.gonzalezbryant.findmypeanut
 
 import io.flutter.embedding.android.FlutterActivity
 
